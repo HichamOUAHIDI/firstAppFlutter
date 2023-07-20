@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:workspacefrontend/conifg/GlobalParams.dart';
+import 'package:workspacefrontend/config/GlobalParams.dart';
 
 class MyDrawer extends StatelessWidget {
   const MyDrawer({super.key});
